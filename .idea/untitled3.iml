@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/MediaPipe_v1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MediaPipe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WebApp_RealTime" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/University-Ranking-Analytics-and-Visualization-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/University-Ranking-Analytics-and-Visualization-master/UniversityRankings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UniversityVisualizationD3-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UniversityVisualizationD3-master/bower_components" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aTEST_handLine_WebApp_RealTime_Mediapipe2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sample" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>

@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Untact Visual Dialog System</title>
+  </head>
+  <body>
+    <h1 align="center" style="color: blue">
+    	Untact Visual Dialog System
+    </h1>
+
+	<div  id="caram" style="postion: relative; text-align: center; width: 500px;height:200px; display: table;border: green solid 1px;margin: auto;">
+	   <span style="display: table-cell; vertical-align: middle; ">
+	   		<img src="{{ url_for('video_feed') }}" style="display: inline-block;"/>
+	   </span>
+	</div>
+
+    <div style="postion: relative;">
+    	<h2 align="center" style="color: blue">
+    		Recognized gesture
+	    </h2>
+    </div>
+
+	<div id="number" style="postion: relative; text-align: center; width: 400px;height:200px; display: table;border: green solid 1px; margin: auto;">
+		<span style="display: table-cell; vertical-align: middle; ">
+		   	<img src="{{ url_for('label_pic_feed') }}" style="display: inline-block;"/>
+		</span>
+	</div>
+
+  </body>
+</html>
